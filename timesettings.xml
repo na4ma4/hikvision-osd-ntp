@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NTPServer>
+    <id>1</id>
+    <addressingFormatType>hostname</addressingFormatType>
+    <hostName>0.au.pool.ntp.org</hostName>
+    <portNo>123</portNo>
+    <synchronizeInterval>1440</synchronizeInterval>
+</NTPServer>

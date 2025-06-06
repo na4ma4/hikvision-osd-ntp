@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NTPTestDescription>
+    <addressingFormatType>hostname</addressingFormatType>
+    <hostName>0.au.pool.ntp.org</hostName>
+    <portNo>123</portNo>
+</NTPTestDescription>
